@@ -47,8 +47,8 @@ Below is screenshot showcasing the application in action:
 
 1. Open the project in **IntelliJ IDEA**.
 2. Provide an input file containing the assembly code.
-3. When running the program, there are **two ways to specify the input file**:
+3. Run the application by executing the **Emulator** class.
+4. When running the program, there are **two ways to specify the input file**:
     - **Default file:** The emulator automatically loads the default file whose path is defined in the project's **properties file**.
     - **Manual path entry:** You can manually enter the absolute path to the assembly file.
-4. Run the application by executing the **Emulator** class.
 5. To verify correctness, run all **JUnit tests** from your IDE or using `mvn test`
