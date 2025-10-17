@@ -52,3 +52,7 @@ Below is screenshot showcasing the application in action:
     - **Default file:** The emulator automatically loads the default file whose path is defined in the project's **properties file**.
     - **Manual path entry:** You can manually enter the absolute path to the assembly file.
 5. To verify correctness, run all **JUnit tests** from your IDE or using `mvn test`
+
+## Acknowledgements / Inspired by
+
+This project was implemented for educational purposes as part of a Computer Architecture course.
